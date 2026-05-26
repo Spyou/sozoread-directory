@@ -9,6 +9,20 @@
       "description": "Official source pack: MangaDex, WeebCentral, MangaPill, MangaKatana, FreeWebNovel, NovelBin. The default repo bundled with the app.",
       "tags": ["manga", "novel", "english", "official"],
       "verified": true
+    },
+    {
+      "name": "Custom Manga Providers",
+      "author": "flowstrike",
+      "repoUrl": "https://raw.githubusercontent.com/flowstrike/sozo-scraping-/main/index.json",
+      "description": "MangaFreak, E-Hentai (NSFW), 包子漫画 and 快看漫画 — adds a Chinese-language manga set plus a couple of niche English sources.",
+      "tags": ["manga", "english", "chinese", "nsfw"]
+    },
+    {
+      "name": "ManhuaPlus",
+      "author": "Nomaan788",
+      "repoUrl": "https://raw.githubusercontent.com/Nomaan788/ManhuaScrap/main/index.json",
+      "description": "Adds the ManhuaPlus source — English-translated manhua.",
+      "tags": ["manga", "manhua", "english"]
     }
   ]
 }
